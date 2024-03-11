@@ -1,0 +1,19 @@
+20230716	09:20:03	a55521e2-53c2-41bf-b40b-d2ce65fb5140	Error:not allowed by CORS
+20230716	09:20:03	c3fcebc8-8584-4361-b2bc-1aedf5e05705	Error:not allowed by CORS
+20230716	09:21:01	30925038-ec73-452c-8c0f-3cad761ceec6	Error:not allowed by CORS
+20230716	09:21:01	57d5944c-5f13-4aee-bb05-60de4ea128a4	Error:not allowed by CORS
+20230716	09:21:21	a5a6cb4c-d5c7-42e4-adf4-024154122ad4	Error:not allowed by CORS
+20230716	09:21:21	77ff89e7-4b17-45b3-a3f3-824d5276a4c8	Error:not allowed by CORS
+20230716	09:22:09	b3794681-e511-4001-bb3c-020f8b77360f	Error:not allowed by CORS
+20230716	09:22:09	519acde0-a8e6-424d-b801-85276e083747	Error:not allowed by CORS
+20230719	09:21:27	f04f97b3-840a-4bf2-a68b-769b74009410	TypeError:Cannot read properties of undefined (reading 'id')
+20230719	09:49:35	45a31047-76bb-4e3d-8a3c-daf959d14e23	Error:Cannot set headers after they are sent to the client
+20230719	09:49:46	babc778e-a215-43b7-84a0-6acbd0747d19	Error:Cannot set headers after they are sent to the client
+20230719	09:50:58	fe729b04-6301-419b-b517-386b7b2988e1	SyntaxError:Unexpected string in JSON at position 32
+20230719	09:51:15	9925cf80-2fdb-436d-b97e-4d40a5cc2d6d	Error:Cannot set headers after they are sent to the client
+20230719	09:57:56	2d819fd5-3db2-4921-8365-1be685505848	Error:Cannot set headers after they are sent to the client
+20230803	08:51:40	e3a973a6-61d4-4741-a6e9-b33a224010dc	SyntaxError:Unexpected token } in JSON at position 38
+20240310	22:36:33	a78a614e-9ad7-4bc9-a227-0ceb4fc9d684	Error:ENOENT: no such file or directory, stat 'C:\Users\abhis\OneDrive\Desktop\PROJECT EXHIBITION 2\mainProject\views\404.html'
+20240310	22:36:45	7d523969-45c4-456c-9881-82f2ed01d151	Error:ENOENT: no such file or directory, stat 'C:\Users\abhis\OneDrive\Desktop\PROJECT EXHIBITION 2\mainProject\views\404.html'
+20240311	21:16:12	195caa12-610d-4143-b123-e759ca176769	Error:ENOENT: no such file or directory, stat 'C:\Users\abhis\OneDrive\Desktop\PROJECT EXHIBITION 2\mainProject\views\404.html'
+20240311	21:31:18	687d081b-dd2a-4d45-9677-616bfc41e3de	Error:ENOENT: no such file or directory, stat 'C:\Users\abhis\OneDrive\Desktop\PROJECT EXHIBITION 2\main-project\FaceKeyWebApp\views\404.html'
