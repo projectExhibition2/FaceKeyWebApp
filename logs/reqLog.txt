@@ -164,3 +164,8 @@
 20240311	21:16:12	2a45566f-b56c-47fe-8fff-cf2ead70b525	GET	undefined	/img/formPage/club_logo%20-%20icon.png
 20240311	21:16:12	34cd7a2b-440d-4f8d-a0c0-11f95fc2424a	GET	undefined	/img/formPage/image.png
 20240311	21:16:12	f9de47a9-7800-4105-ba81-85b141c76b1d	GET	undefined	/favicon.ico
+20240311	21:31:17	284ed01b-e4e0-474e-b19c-320aa5310954	GET	undefined	/
+20240311	21:31:17	6cfce461-e889-4007-b778-68c0e5de8f5c	GET	undefined	/css/formPage/style.css
+20240311	21:31:17	cb806bcc-8861-4ea1-8257-7a08402e1a26	GET	undefined	/img/formPage/club_logo%20-%20icon.png
+20240311	21:31:17	34bd9be9-accd-47dc-b258-4a51bceee908	GET	undefined	/img/formPage/image.png
+20240311	21:31:18	a6b45939-67c5-4a41-bfb0-25df8ccb02ef	GET	undefined	/favicon.ico
