@@ -16,7 +16,7 @@ const app = express()
 // connectDB();
 
 // Initializing PORT
-const PORT = process.env.PORT || 3500
+const PORT = process.env.PORT || 2000
 
 // custom middleware - logger
 app.use(logger);
@@ -37,7 +37,7 @@ app.use(cors(corsOptions));
 app.use(express.static(path.join(__dirname, 'public')))
 
 // add api routes
-app.use('/employees', require('./routes/api/employees'))
+// app.use('/employees', require('./routes/api/employees'))
 
 // adding root routes
 app.use('/', require('./routes/root'))
@@ -56,7 +56,7 @@ app.all('*',(req, res)=>{
 })
 
 // custom middleware for error Handling
-app.use(errorHandler);
+// app.use(errorHandler);
 
 
 // listening to server
