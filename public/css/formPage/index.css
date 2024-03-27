@@ -105,3 +105,18 @@ button {
   width: auto;
   height: 100%;
 }
+
+
+/************* Responsive CSS *******************/
+@media screen and (max-width:800px) {
+  .container{
+    flex-direction: column;
+  }
+  .camera-container{
+    display: none;
+  }
+  .details{
+    width: 100%;
+  }
+
+}
